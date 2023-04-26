@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Cristian, I'm 25 years old and my passion is software development using technologies such as React, Vue, Node, Nest, and Laravel. I consider myself a very sociable person and enjoy listening to and being heard by others. I am always in constant learning and currently exploring the world of cloud and its automation to be able to deploy applications more efficiently.
+I'm Cristian, I'm a Systems Engineer who has dedicated myself to software development for more than two years in the work field. I have worked with technologies such as React, Vue, Node, Nest, and Laravel to carry out my projects. I consider myself a very sociable person and enjoy listening and being heard by others. I am always in constant learning and currently exploring the world of cloud and its automation to deploy applications more efficiently.
 
 
 ## 🌐 Socials:
